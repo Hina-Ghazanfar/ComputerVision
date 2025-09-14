@@ -1,0 +1,14 @@
+# Core DL
+torch>=2.1
+torchvision>=0.16
+
+# Metrics / utils
+numpy>=1.23
+scikit-learn>=1.2
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Notebook
+jupyter>=1.0
