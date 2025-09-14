@@ -21,7 +21,7 @@ This repository contains **`Phase3-NN-Hina-40457510.ipynb`**, a clean, end‑to�
 
 ```
 .
-├── Phase3-NN-Hina-40457510.ipynb
+├── Phase3-NN-Hina.ipynb
 ├── data/
 │   ├── train/         # or place a CSV with paths+labels
 │   └── val/           # optional; notebook can split from a single folder
