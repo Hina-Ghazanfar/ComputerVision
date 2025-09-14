@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# OS
+.DS_Store
+
+# Environments
+.venv/
+env/
+venv/
+
+# Data (images & artifacts)
+data/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# Models & features
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Plots/outputs
+figures/
+outputs/
+exports/
