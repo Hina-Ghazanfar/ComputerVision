@@ -22,7 +22,7 @@ This repository contains **`Phase4-CNN-Hina-40457510.ipynb`**, a clean, end‑to
 
 ```
 .
-├── Phase4-CNN-Hina-40457510.ipynb
+├── Phase4-CNN.ipynb
 ├── data/
 │   ├── train/
 │   │   ├── class_a/ ... *.jpg|*.png
